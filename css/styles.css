@@ -1,0 +1,36 @@
+:root{
+    --primary-text-color:#434455;
+    --title-text-color:#2E2F42;
+    ---primary-bg-color: #FFFFFF;
+    ---accent-color:
+   
+}
+
+body {
+    background-color:var(---primary-bg-color);
+    color:var(--primary-text-color);
+}
+ul {
+    list-style: none;
+}
+/* site-nav */
+.site-nav .link {
+    color:var(--title-text-color);
+}
+/* hero */
+.hero-title {
+    color:var(---primary-bg-color);
+}
+.button {
+    color:var(---primary-bg-color);
+    background-color:#4D5AE5;
+}
+.section-title {
+    color:var(--title-text-color);
+}
+.principles-list .title {
+    color: var(--title-text-color);
+}
+.employees-list .names {
+    color: var(--title-text-color)
+}
