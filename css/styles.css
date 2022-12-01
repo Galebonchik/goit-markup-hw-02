@@ -40,7 +40,6 @@ body {
     }
 .site-nav .link:hover,
 .site-nav .link:focus{
-    font-weight: 600;
     color: var(--accent-color);
     }
 .contacts .link{
